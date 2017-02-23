@@ -1,0 +1,51 @@
+body, h2, p, article, aside {
+	margin: 0px;
+	padding: 0px;
+	border: 0px
+}
+
+article {
+	float: right;
+	width: 60%;
+	padding-left: 8px;
+	background-color: #ffffff;
+
+}
+
+article img {
+	float: left;
+	padding-right: 2px;
+	padding-left: 2px;
+	border: 2px red solid;
+	margin-right: 20px;
+}
+
+aside {
+	float: left;
+	width: 34%;
+	padding: 5px;
+	background-color: #ffffff;
+}
+
+.container {
+	margin: auto;
+	width: 90%;
+	background-color: #ddccff;
+}
+
+header {
+	text-align: center;
+	border: 3px #4400cc solid;
+	padding: 10px;
+	background-color: #b693ff;
+}
+
+p {
+	padding: 3px;
+}
+
+footer {
+	clear: both;
+	background-color: #aaaaaa;
+
+}
