@@ -1,3 +1,11 @@
+/*
+	Name: 		Brenden Reeves
+	Date: 		2/23/217
+	Class:		CIS 130-102
+	File Name:	styles.css
+	Assignment:	Shady Shades Sunglasses
+*/
+
 body, h2, p, article, aside {
 	margin: 0px;
 	padding: 0px;
@@ -13,7 +21,6 @@ article {
 	width: 60%;
 	padding-left: .6em;
 	background-color: #b997ff;
-	text-align: auto;
 	padding-top: .6em;
 	padding-bottom: .4em;
 }
@@ -36,7 +43,7 @@ aside {
 
 .container {
 	max-width: 800px;
-	min-width: 560px;
+	min-width: 600px;
 	margin: auto;
 	width: 70%;
 	background-color: #ddccff;
